@@ -1,3 +1,8 @@
+ Florent Mugisha-149632, 
+Omar Ali-169084, 
+George Makau-168961,
+ Sumeiya Abass-169819, 
+Denzel Ngare-168945
 # API
 Class Purposes
 User Class: Represents a bank user, allowing them to create and manage multiple accounts. It includes methods for creating accounts and viewing account details.
